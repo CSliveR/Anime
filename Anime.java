@@ -52,16 +52,4 @@ public class Anime implements Comparable<Anime> {
     public String toString() {
         return "(" + getAnimeTitle() + " - " + getScore() + " - " + getType() + " - " + getProgress() + ")" + "\n";
     }
-
-
-
-
-
-
-
-
-
-
-
-
 }
