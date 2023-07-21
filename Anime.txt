@@ -1,244 +1,535 @@
-2.43: Seiin High School Boys Volleyball Team Edit - More
-5	
-TV	
-12	
-Accel World 
-7	
-TV	
-24	
-Ahiru no Sora 
-9	
-TV	
-50	
-Attack on Titan
-10	
+2.43: Seiin High School Boys Volleyball Team
+5
 TV
-25	
-Attack on Titan Season 2
-10	
-TV	
-12	
-Attack on Titan Season 3
-10	
-TV	
-12	
-Attack on Titan Season 3 Part 2
-10	
-TV	
-10	
-Attack on Titan: Final Season
-10	
-TV	
-16	
-Attack on Titan: Final Season Part 2 
-10	
-TV	
-12	
-Blue Exorcist 
-7	
-TV	
-25	
-Chainsaw Man 
-8	
-TV	
-12	
+12
+Completed
+Ahiru no Sora
+9
+TV
+50
+Completed
+Attack on Titan
+10
+TV
+25
+Completed
+Kaguya-sama: Love is War - Ultra Romantic
+9
+TV
+13
+Completed
+Blue Exorcist
+7
+TV
+25
+Completed
+Accel World
+7
+TV
+24
+Completed
 Classroom of the Elite
 7
-TV	
-12	
-Classroom of the Elite II 
-8	
-TV	
-13	
-Death Note 
-9	
-TV	
-37	
-Demon Slayer: Kimetsu no Yaiba 
-7	
-TV	
-26	
-Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train 
-9	
-Movie	
-1	
-Demon Slayer: Kimetsu no Yaiba Entertainment District Arc Edit - More
-9	
-TV	
-11	
-Domestic Girlfriend
-3	
-TV	
-12	
-Don't Toy with Me, Miss Nagatoro 
-8	
-TV	
-12	
-Fairy Tail
-7	
-TV	
-175	
-Fairy Tail Movie 2: Dragon Cry Edit - More
-7	
-Movie	
-1	
-Fairy Tail Series 2 
-7	
-TV	
-102	
-Haikyu!! 
+TV
+12
+Completed
+Attack on Titan Season 3 Part 2
+10
+TV
+10
+Completed
+Demon Slayer: Kimetsu no Yaiba
 8
-TV	
-25	
-Haikyu!! 2nd Season 
-10	
-TV	
-25	
-Haikyu!! 3rd Season
-10	
-TV	
-10	
-Haikyu!! To the Top 
-9	
-TV	
-13	
+TV
+26
+Completed
+Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train
+9
+Movie
+1
+Completed
+Demon Slayer: Kimetsu no Yaiba Entertainment District Arc
+9
+TV
+11
+Completed
+Domestic Girlfriend
+3
+TV
+12
+Completed
+Chainsaw Man
+8
+TV
+12
+Completed
+Don't Toy with Me, Miss Nagatoro
+7
+TV
+12
+Completed
+Fairy Tail
+8
+TV
+175
+Completed
+Fairy Tail Movie 2: Dragon Cry
+7
+Movie
+1
+Completed
+Fairy Tail Series 2
+8
+TV
+102
+Completed
+Death Note
+9
+TV
+37
+Completed
+Haikyu!!
+8
+TV
+25
+Completed
+Kaguya-sama: Love is War OVA
+6
+OVA
+1
+Completed
+Haikyu!! 2nd Season
+10
+TV
+25
+Completed
+Attack on Titan Season 2
+10
+TV
+12
+Completed
+Haikyu!! To the Top
+9
+TV
+13
+Completed
+Classroom of the Elite II
+8
+TV
+13
+Completed
 Haikyu!! TO THE TOP 2nd-cour
-8	
-TV	
-12	
-Hunter x Hunter 
-10	
-TV	
-148	
-Jujutsu Kaisen 
-9	
-TV	
-24	
-Jujutsu Kaisen 0
-7	
-Movie	
-1	
-Kaguya-sama: Love is War
-9	
-TV	
-12	
-Kaguya-sama: Love is War - Ultra Romantic 
-9	
-TV	
-13	
-Kaguya-sama: Love is War OVA 
-6	
-OVA	
-1	
-Kaguya-sama: Love is War Season 2 
-9	
-TV	
-12	
-Koikimo 
-6	
-TV	
-12	
-Kuroko's Basketball 
-8	
-TV	
-25	
-Kuroko's Basketball 2
-7	
-TV	
-25	
-Kuroko's Basketball 3 
-8	
-TV	
-25	
-Kuroko's Basketball the Movie: Last Game 
-9	
-Movie	
-1	
-Link Click 
+8
+TV
+12
+Completed
+Hunter x Hunter
 10
-ONA	
-11	
-Lycoris Recoil 
-6	
-TV	
-13	
-My Dress-Up Darling 
-9	
-TV	
-12	
-My Stepmom's Daughter Is My Ex 
-6	
-TV	
-12	
-Parasyte: The Maxim Edit - More
-7	
-TV	
-24	
-Re:ZERO -Starting Life in Another World
-8	
-TV	
-25	
-Re:ZERO -Starting Life in Another World- Season 2
-7	
-TV	
-13	
-Rent-a-Girlfriend 
-7	
-TV	
-12	
-Rent-a-Girlfriend Season 2 
-8	
-TV	
-12	
-Spy x Family 
-10
-TV	
-12	
-Spy x Family Part 2
-10	
-TV	
-13	
-Summer Time Rendering
-7	
-TV	
-25	
-The Quintessential Quintuplets
-8	
-TV	
-12	
-The Quintessential Quintuplets 2
-10	
-TV	
-12	
-Tokyo Ghoul
-10	
-TV	
-12	
-Tokyo Ghoul √A 
-6	
-TV	
-12	
-Tokyo Ghoul:re 
-5	
-TV	
-12	
-Tokyo Ghoul:re 2nd Season
-7	
-TV	
-12	
+TV
+148
+Completed
 Tokyo Revengers
-8	
-TV	
-24	
+8
+TV
+24
+Completed
+Jujutsu Kaisen
+9
+TV
+24
+Completed
+Kaguya-sama: Love is War
+9
+TV
+12
+Completed
+Jujutsu Kaisen 0
+7
+Movie
+1
+Completed
+Kaguya-sama: Love is War Season 2
+9
+TV
+12
+Completed
+Koikimo
+6
+TV
+12
+Completed
+Parasyte: The Maxim
+8
+TV
+24
+Completed
+Tokyo Ghoul
+10
+TV
+12
+Completed
+Tokyo Ghoul √A
+6
+TV
+12
+Completed
+Tokyo Ghoul:re
+5
+TV
+12
+Completed
+Tokyo Ghoul:re 2nd Season
+7
+TV
+12
+Completed
+Attack on Titan Season 3
+10
+TV
+12
+Completed
+Kuroko's Basketball
+8
+TV
+25
+Completed
+Lycoris Recoil
+6
+TV
+13
+Completed
+Kuroko's Basketball 2
+7
+TV
+25
+Completed
+Haikyu!! 3rd Season
+10
+TV
+10
+Completed
+Kuroko's Basketball 3
+8
+TV
+25
+Completed
+Kuroko's Basketball the Movie: Last Game
+9
+Movie
+1
+Completed
+Rent-a-Girlfriend
+7
+TV
+12
+Completed
+My Dress-Up Darling
+9
+TV
+12
+Completed
+My Stepmom's Daughter Is My Ex
+6
+TV
+12
+Completed
+Re:ZERO -Starting Life in Another World
+8
+TV
+25
+Completed
+Re:ZERO -Starting Life in Another World- Season 2
+7
+TV
+13
+Completed
+Rent-a-Girlfriend Season 2
+8
+TV
+12
+Completed
+Spy x Family
+10
+TV
+12
+Completed
+Summer Time Rendering
+7
+TV
+25
+Completed
+The Quintessential Quintuplets
+8
+TV
+12
+Completed
+The Quintessential Quintuplets 2
+10
+TV
+12
+Completed
+Spy x Family Part 2
+10
+TV
+13
+Completed
+Attack on Titan: Final Season
+10
+TV
+16
+Completed
+Attack on Titan: Final Season Part 2
+10
+TV
+12
+Completed
+Link Click
+9
+ONA
+11
+Completed
 Tomodachi Game
-7	
-TV	
-12	
+7
+TV
+12
+Completed
 Tsurune: Kazemai High School Kyudo Club
-6	
-TV	
-13	
+6
+TV
+13
+Completed
 Your Lie in April
-8	
+8
+TV
+22
+Completed
+The Quintessential Quintuplets Movie
+9
+Movie
+1
+Completed
+Don't Toy with Me, Miss Nagatoro 2nd Attack
+7
+TV
+12
+Completed
+The Angel Next Door Spoils Me Rotten
+6
+TV
+12
+Completed
+Tomo-chan Is a Girl!
+7
+TV
+13
+Completed
+Tsurune - The Linking Shot
+8
+TV
+13
+Completed
+Tokyo Revengers: Christmas Showdown
+6
+TV
+13
+Completed
+Rascal Does Not Dream of Bunny Girl Senpai
+6
+TV
+13
+Completed
+Blue Lock
+9
+TV
+24
+Completed
+Kaguya-sama: Love is War - The First Kiss That Never Ends
+10
+Movie
+1
+Completed
+Idol
+10
+Music
+1
+Completed
+Spy Classroom
+6
+TV
+12
+Completed
+The Promised Neverland
+8
+TV
+12
+Completed
+The Promised Neverland Season 2
+5
+TV
+11
+Completed
+MEKAKUCITY ACTORS
+3
+TV
+12
+Completed
+Date A Live
+8
+TV
+12
+Completed
+Date A Live: Date to Date
+8
+OVA
+1
+Completed
+Date A Live II
+7
+TV
+10
+Completed
+Toilet-Bound Hanako-kun
+8
+TV
+12
+Completed
+Date A Live II: Kurumi Star Festival
+9
+OVA
+1
+Completed
+TONIKAWA: Over The Moon For You
+9
+TV
+12
+Completed
+TONIKAWA: Over The Moon For You - SNS
+8
+OVA
+1
+Completed
+Date A Live III
+7
+TV
+12
+Completed
+My Teen Romantic Comedy SNAFU
+5
 TV	
-22	
+13
+Completed
+Akame ga Kill!
+9
+TV
+24
+Completed
+My Home Hero
+7
+TV
+12
+Completed
+Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc
+8
+TV
+11
+Completed
+The Dangers in My Heart
+9
+TV
+12
+Completed
+Akebi's Sailor Uniform
+2
+TV
+2
+Dropped
+NieR:Automata Ver1.1a
+4
+TV
+4
+Dropped
+Scarlet Nexus
+1
+TV
+5
+Dropped
+Skip and Loafer
+8
+TV
+12
+Completed
+Uchiage Hanabi
+9
+Music
+1
+Completed
+Heavenly Delusion
+4
+TV
+13
+Completed
+My Love Story with Yamada-kun at Lv999
+7
+TV
+13
+Completed
+[Oshi No Ko]
+10
+TV	
+11
+Completed
+More than a Married Couple, but Not Lovers. 
+6
+TV
+12
+Completed
+Hajime no ippo
+10
+TV
+75
+Completed
+Hajime no ippo ep 76 Special
+7
+Special
+1
+Completed
+Masamune-kun's Revenge
+4
+TV
+12
+Completed
+Hajime no Ippo: Champion Road
+9
+Special
+1
+Completed
+Hajime no Ippo: Mashiba vs. Kimura
+8
+OVA
+1
+Completed
+Bocchi the Rock!
+9
+TV
+12
+Completed
+Date A Live IV
+8
+TV
+12
+Completed
+Horimiya
+7
+TV
+13
+Completed
+Tonikaku Kawaii: Seifuku
+7
+Special
+1
+Completed
+Masamune-kun no Revenge: Uchi no Mama ni Kagitte
+5
+OVA
+1
+Completed

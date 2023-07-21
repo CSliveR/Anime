@@ -10,7 +10,7 @@ import java.util.ArrayList;
 public class CreationBib {
     public static ArrayList<Anime> lesAnimes() {
         String ligne;
-        String animeTitle,type;
+        String animeTitle,type,statut;
         int score, progress;
         ArrayList<Anime> resultat = new ArrayList<>();
         try (BufferedReader br = new BufferedReader(new FileReader("Anime.txt"))) {
@@ -19,11 +19,14 @@ public class CreationBib {
                 ligne = br.readLine();
                 score = Integer.parseInt(ligne);
                 ligne = br.readLine();
+                type = ligne;
+                ligne = br.readLine();
                 progress = Integer.parseInt(ligne);
                 ligne = br.readLine();
-                type = ligne;
-                
-                resultat.add(new Anime(animeTitle,score,type,progress));
+                statut = ligne;
+
+             
+                resultat.add(new Anime(animeTitle,score,type,progress,statut));
             }
         } catch (FileNotFoundException e) {
             e.printStackTrace();
