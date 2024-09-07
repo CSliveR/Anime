@@ -1,0 +1,9 @@
+Informations sur les anime
+
+Mean Score: 7.50289
+Completed: 170
+Dropped: 3
+Episodes: 2629
+
+
+votre saisie a été réalisée en : 13ms

@@ -1,8 +1,8 @@
-import java.util.ArrayList;
+import java.util.List;
 
 public class Utilitaire {
 
-    public static boolean verifTri(ArrayList<Anime> vAnimes) {
+    public static boolean verifTri(List<Anime> vAnimes) {
         int i = 1;
 
         while (i < vAnimes.size() && vAnimes.get(i).compareTo(vAnimes.get(i - 1)) >= 0) {
@@ -12,7 +12,7 @@ public class Utilitaire {
         return i == vAnimes.size();
     }
 
-    public static ArrayList<Anime> triInsertion(ArrayList<Anime> vAnimes) {
+    public static void triInsertion(List<Anime> vAnimes) {
         int j;
         Anime animeAPlacer;
         int i = 1;
@@ -29,11 +29,9 @@ public class Utilitaire {
             vAnimes.set(j, animeAPlacer);
             i = i + 1;
         }
-
-        return vAnimes;
     }
 
-    public static int animeCompleted(ArrayList<Anime> vAnimes) {
+    public static int animeCompleted(List<Anime> vAnimes) {
         int i = 0;
         int count = 0;
 
@@ -47,11 +45,11 @@ public class Utilitaire {
         return count;
     }
     
-    public static int animeDropped(ArrayList<Anime> vAnimes) {
+    public static int animeDropped(List<Anime> vAnimes) {
         return vAnimes.size() - animeCompleted(vAnimes);
     }
 
-    public static int numberOfEpisodes(ArrayList<Anime> vAnimes) {
+    public static int numberOfEpisodes(List<Anime> vAnimes) {
         int i = 0;
         int nbEpisodes = 0;
         while (i < vAnimes.size()) {
@@ -62,7 +60,7 @@ public class Utilitaire {
         return nbEpisodes;
     }
 
-    public static float meanScore(ArrayList<Anime> vAnimes) {
+    public static float meanScore(List<Anime> vAnimes) {
         int i = 0;
         float sumScore = 0.0f;
         while (i < vAnimes.size()) {
@@ -74,7 +72,7 @@ public class Utilitaire {
     }
 
 
-    public static boolean estAnimePresent(ArrayList<Anime> vAnimes, String titreAnime) {
+    public static boolean estAnimePresent(List<Anime> vAnimes, String titreAnime) {
         int i = 0;
         while (i < vAnimes.size() && vAnimes.get(i).getAnimeTitle().compareToIgnoreCase(titreAnime) != 0) {
             i++;
@@ -84,7 +82,7 @@ public class Utilitaire {
 
     }
     
-    public static boolean rechAnimeDicho(ArrayList<Anime> vAnimes, String titreAnime) {
+    public static boolean rechAnimeDicho(List<Anime> vAnimes, String titreAnime) {
         int min = 0;
         int max = vAnimes.size() - 1;
         int mid = (min + max) / 2;
@@ -100,7 +98,7 @@ public class Utilitaire {
         return min <= max;
     }
 
-    public static int getAnimeScore(ArrayList<Anime> vAnimes, String titreAnime) {
+    public static int getAnimeScore(List<Anime> vAnimes, String titreAnime) {
         int i = 0;
         int score = -1;
         while (i < vAnimes.size() && vAnimes.get(i).getAnimeTitle().compareToIgnoreCase(titreAnime) != 0) {
@@ -116,7 +114,7 @@ public class Utilitaire {
         return score;
     }
     
-    public static String getAnimeType(ArrayList<Anime> vAnimes, String titreAnime) {
+    public static String getAnimeType(List<Anime> vAnimes, String titreAnime) {
         int i = 0;
         String type = "";
         while (i < vAnimes.size() && vAnimes.get(i).getAnimeTitle().compareToIgnoreCase(titreAnime) != 0) {
@@ -132,7 +130,7 @@ public class Utilitaire {
         return type;
     }
 
-    public static int getAnimeNbEpisodes(ArrayList<Anime> vAnimes, String titreAnime) {
+    public static int getAnimeNbEpisodes(List<Anime> vAnimes, String titreAnime) {
         int i = 0;
         int nbEpisodes = -1;
         while (i < vAnimes.size() && vAnimes.get(i).getAnimeTitle().compareToIgnoreCase(titreAnime) != 0) {
@@ -148,7 +146,7 @@ public class Utilitaire {
         return nbEpisodes;
     }
 
-    public static String getAnimeStatut(ArrayList<Anime> vAnimes, String titreAnime) {
+    public static String getAnimeStatut(List<Anime> vAnimes, String titreAnime) {
         int i = 0;
         String statut = "";
         while (i < vAnimes.size() && vAnimes.get(i).getAnimeTitle().compareToIgnoreCase(titreAnime) != 0) {

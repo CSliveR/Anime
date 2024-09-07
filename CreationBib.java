@@ -1,4 +1,3 @@
-
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
@@ -22,8 +21,6 @@ public class CreationBib {
                 progress = Integer.parseInt(ligne);
                 ligne = br.readLine();
                 statut = ligne;
-
-             
                 resultat.add(new Anime(animeTitle,score,type,progress,statut));
             }
         } catch (FileNotFoundException e) {

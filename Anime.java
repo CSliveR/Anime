@@ -1,12 +1,9 @@
-
 public class Anime implements Comparable<Anime> {
-
     private String animeTitle;
     private int score;
     private String type;
     private int progress;
     private String statut;
- 
 
     public Anime(String animeTitle, int score, String type, int progress, String statut) {
         this.animeTitle = animeTitle;
@@ -17,37 +14,29 @@ public class Anime implements Comparable<Anime> {
     }
 
     public String getAnimeTitle() {
-        return animeTitle;
+        return this.animeTitle;
     }
 
     public int getScore() {
-        return score;
+        return this.score;
     }
     
     public String getType() {
-        return type;
+        return this.type;
     }
 
     public int getProgress() {
-        return progress;
+        return this.progress;
     }
 
     public String getStatut() {
-        return statut;
+        return this.statut;
     }
     
     @Override 
     public int compareTo(Anime a) {
-        if (this.animeTitle.compareTo(a.animeTitle) < 0) {
-            return -1;
-        } else if (this.animeTitle.compareTo(a.animeTitle) < 0 && this.score == a.score) {
-            return 0;
-        } else {
-            return 1;
-        }
-
+        return this.animeTitle.compareTo(a.animeTitle);
     }
-
     @Override
     public String toString() {
         return "(" + getAnimeTitle() + " - " + getScore() + " - " + getType() + " - " + getProgress() + ")" + "\n";
